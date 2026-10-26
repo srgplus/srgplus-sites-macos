@@ -5,5 +5,13 @@
     <link>https://srgplus.github.io/srgplus-sites-macos/appcast.xml</link>
     <description>Updates of SRG+ Sites for Mac, downloaded outside the App Store.</description>
     <language>en</language>
+    <item>
+      <title>0.2.0 (202610262114)</title>
+      <pubDate>Mon, 26 Oct 2026 21:16:23 +0000</pubDate>
+      <sparkle:version>202610262114</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/srgplus/srgplus-sites-macos/releases/latest/download/SRG-Plus-Sites.dmg" type="application/octet-stream" sparkle:edSignature="JlGA8PtQAU8+CdBJGSvHS7xDUIlU0P+dJAUN3toHz5mA+MYRtuatQNVLXFvRs5LAJ66kqVcVF8M31vpEBp6EBQ==" length="5734161" />
+    </item>
   </channel>
 </rss>
