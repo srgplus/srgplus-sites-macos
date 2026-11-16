@@ -6,6 +6,14 @@
     <description>Updates of SRG+ Sites for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.3.2 (202611162353)</title>
+      <pubDate>Mon, 16 Nov 2026 23:55:52 +0000</pubDate>
+      <sparkle:version>202611162353</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/srgplus/srgplus-sites-macos/releases/latest/download/SRG-Plus-Sites.dmg" type="application/octet-stream" sparkle:edSignature="ViwImjLP160blErfhCuDnxf9WQvdSl/2sHY3ODVVqaMbg6Mpw5WV9gvlrQxVhrmc6lD8CE/eT1XlEYlBMaLADg==" length="6128148" />
+    </item>
+    <item>
       <title>0.3.0 (202610270518)</title>
       <pubDate>Tue, 27 Oct 2026 05:20:04 +0000</pubDate>
       <sparkle:version>202610270518</sparkle:version>
