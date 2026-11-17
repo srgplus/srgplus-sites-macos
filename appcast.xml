@@ -11,6 +11,15 @@
       <sparkle:version>202611162353</sparkle:version>
       <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+What's new in SRG+ Sites 0.3.2
+
+- Share a site's preview: a new Share menu can open the preview to everyone (it stays hidden from search), or make a client link that works for 1, 3, 7 or 30 days and copies it for you.
+- A cleaner site window: the site's name, status, address and last release sit in the toolbar, with Reload, Open preview, Roll back and Publish next to them.
+- Back and Forward arrows and a search button (Cmd-F) above the list of sites.
+- Pages: one slim header per page with its share picture, address, title, description and search status, plus Copy link and Open. The Pages tab now opens at once.
+- CMS has a tab of its own: collections on the left, the items in a table, and an item's fields.
+]]></description>
       <enclosure url="https://github.com/srgplus/srgplus-sites-macos/releases/latest/download/SRG-Plus-Sites.dmg" type="application/octet-stream" sparkle:edSignature="ViwImjLP160blErfhCuDnxf9WQvdSl/2sHY3ODVVqaMbg6Mpw5WV9gvlrQxVhrmc6lD8CE/eT1XlEYlBMaLADg==" length="6128148" />
     </item>
     <item>
